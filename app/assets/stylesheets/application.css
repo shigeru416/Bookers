@@ -44,6 +44,11 @@
 	font-size:13px;
 }
 
+.links-showhtml{
+	margin-top:30px;
+	margin-left:35px;
+	font-size:13px;
+}
 
 /*top.html.erb*/
 .head{
@@ -59,5 +64,27 @@
 	margin:0 65px;
 }
 
-/*new.html.erb*/
+/*edit.html.erb*/
+.editing-box{
+	margin:25px 0 0 30px;
+}
+
+.form-title{
+	font-size:13px;
+	margin-top:5px;
+}
+
+.form-body{
+	font-size:13px;
+	margin-top:5px;
+}
+
+.update-button{
+	margin-top:5px;
+}
+
+.links-edithtml{
+    margin-top:10px;
+	font-size:13px;
+}
 
