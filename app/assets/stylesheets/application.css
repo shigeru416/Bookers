@@ -136,3 +136,7 @@ table{
 .new-create-button{
 	margin-top:10px;
 }
+
+#error_explanation{
+	margin-bottom:10px;
+}
