@@ -98,6 +98,10 @@
 	margin-bottom:6px;
 }
 
+table{
+	border-spacing: 9px 0;
+}
+
 .table-title{
 	font-size:13px;
 }
@@ -130,5 +134,5 @@
 }
 
 .new-create-button{
-	margin-top:5px;
+	margin-top:10px;
 }
