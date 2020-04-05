@@ -21,7 +21,7 @@
 
 /*noticeはflashを使って表示している。適応が必要なコントローラのアクションと関係するviewのhtml.erbに適応*/
 #notice{
-	padding:32px 0 0 70px;
+	padding:27px 0 0 70px;
     font-size: 13px;
     color:#006600;
 }
@@ -89,4 +89,46 @@
 }
 
 /*index.html.erb*/
+.index{
+	margin-left:35px;
+}
 
+.index-title{
+	font-size:23px;
+	margin-bottom:6px;
+}
+
+.table-title{
+	font-size:13px;
+}
+
+.table-body{
+	font-size:13px;
+}
+
+.table-content{
+	line-height:27px;
+	font-size:13px;
+}
+
+.new{
+	margin:10px 0 0 30px;
+}
+
+.new-title{
+	font-size:18px;
+	margin-bottom:10px;
+}
+
+.title-text{
+	font-size:13px;
+}
+
+.body-text{
+	font-size:13px;
+	margin-top:10px;
+}
+
+.new-create-button{
+	margin-top:5px;
+}
