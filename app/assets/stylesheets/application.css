@@ -140,3 +140,26 @@ table{
 #error_explanation{
 	margin-bottom:10px;
 }
+
+#container{
+  height: 500px;
+}
+.image1 {
+background-image: url(image1.jpg);
+}
+.image2 {
+background-image: url(image2.jpg);
+}
+.image3 {
+background-image: url(image3.jpg);
+}
+.image4 {
+background-image: url(image4.jpg);
+}
+.image5 {
+background-image: url(image5.jpg);
+}
+
+.font-bigger{
+	font-size: 100px;
+}
